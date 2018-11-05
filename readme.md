@@ -1,10 +1,8 @@
-# Hangman
+# Simple to-do app
 
 ## General info
 
-_Hangman_ - a simple JS game based on guessing the individual letters of a random word.
-
-[In this repository](https://github.com/krykor/hangman-react) the application has been **rewritten** from JS to ReactJS and expanded with new possibilities.
+This is a simple JS to-do app.
 
 ## Technologies
 
@@ -14,12 +12,13 @@ Aplication is created with:
 - CSS & HTML
 - Babel
 - Webpack
+- UUID
 - GIT
 - NPM
 
 ## Demo
 
-[Github Pages demo](https://krykor.github.io/hangman-js/)
+[Github Pages demo](https://krykor.github.io/todo-course-app)
 
 ## Inspiration
 
